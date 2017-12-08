@@ -1,0 +1,38 @@
+ Lexical – Uppercase and special characters, number of unique words, word length frequency
+ Structural – Average sentence or paragraph length
+ Syntactic – Occurrence of function words, or punctuations : ? . , “” : ;
+
+Lexical features:
+The average number of words per sentence
+Sentence length variation
+Lexical diversity, which is a measure of the richness of the author’s vocabulary
+Punctuation features:
+Average number of commas, semicolons and colons per senten
+
+Letter frequencies
+• N-gram frequencies (overlapping n-character frequencies)
+11
+• Function word usage (short structure-determining words: common adverbs, auxiliary verbs, conjunctions,
+determiners, numbers, prepositions and pronouns)
+• Vocabulary richness (number of different words used)
+• Lexical richness (word frequency as a function of full text)
+• Distribution of syllables per word
+• Word frequencies
+• Hapax legomena (words used once only)
+• Hapax dislegomena (words used twice only)
+• Word length distribution
+• Word collocations (words frequently used together)
+• Sentence length
+• Preferred word positions
+• Prepositional phrase structure
+• Distribution parts of speech
+• Phrasal composition grammar
+
+• Has a greeting acknowledgment
+• Uses a farewell acknowledgment
+• Contains signature text
+• Number of attachments
+• Position of re-quoted text within e-mail body
+• HTML tag frequency distribution/total number of HTML tags
+
+================================================
